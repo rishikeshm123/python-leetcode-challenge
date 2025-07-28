@@ -31,4 +31,4 @@ if __name__ == "__main__":
     
     sol = Solution()
     result = sol.countNegatives(grid)
-    print(result)
+    print("Total Negatives in the grid:",result)
