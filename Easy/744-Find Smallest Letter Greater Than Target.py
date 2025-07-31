@@ -24,9 +24,6 @@ class Solution(object):
         # If 'left' is out of bounds, return the first character (circular condition)
         return letters[left % len(letters)]
 
-            
-
-
 if __name__ == '__main__':
     sol = Solution()
     test_case1 = sol.nextGreatestLetter(["c","f","j"],"a")

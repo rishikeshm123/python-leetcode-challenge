@@ -6,4 +6,5 @@
 | Jul 28, 2025 | Solved Leetcode Easy: 1351                                         |
 | Jul 29, 2025 | Learned Bubble Sort, Solved Leetcode Easy: 744                     |
 | Jul 30, 2025 | Solved Leetcode Easy: 278                                          |
+| Jul 31, 2025 | Learned Selection Sort                                             |
 
