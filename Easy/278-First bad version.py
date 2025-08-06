@@ -1,7 +1,6 @@
 # 278 - First Bad Version
 # Leetcode Link: https://leetcode.com/problems/first-bad-version/?envType=problem-list-v2&envId=binary-search
 
-# This is a mock for demonstration. In the real interview, this function is already implemented.
 def isBadVersion(version):
     return version >= 4  
 
