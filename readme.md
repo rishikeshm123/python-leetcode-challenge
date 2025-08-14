@@ -31,16 +31,6 @@ I aim to do **one or more of the following each day** and commit it here:
 
 ---
 
-## 📁 Folder Structure
-
-python-leetcode-challene/
-│
-├── Easy/ # Easy-level LeetCode problems
-├── Medium/ # Medium-level LeetCode problems
-├── Hard/ # Hard-level LeetCode problems
-├── Notes/ # DSA/Python concepts, tricks, and patterns
-└── Practice/ # Practice code, mini-projects, scratch files
-
 Each problem file is named using the format:
 problemNumber-title.py
 
