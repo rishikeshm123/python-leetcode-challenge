@@ -8,4 +8,5 @@
 | Jul 30, 2025 | Solved Leetcode Easy: 278                                          |
 | Jul 31, 2025 | Learned Selection Sort                                             |
 | Aug 6, 2025  | Solved Leetcode Medium: 153, Learned Insertion Sort                |
-
+| Aug 14, 2025 | Learnt Time Complexity, Order of growth and Big O notation         |
+| Aug 15, 2025 | 
